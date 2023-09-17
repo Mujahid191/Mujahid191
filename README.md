@@ -112,10 +112,12 @@
 <img src="https://komarev.com/ghpvc/?username=alishaamin&&style=flat-square" align="center" /> -->
 
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats 
+<h2 align="center">GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mujahid191&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" align="center" />
 </div>
+-->
 
 <!-- Top Repositories -->
 <h2 align="center">Top Repositories</h2>
