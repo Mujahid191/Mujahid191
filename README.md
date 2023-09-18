@@ -119,7 +119,7 @@
 </div>
 -->
 
-<!-- Top Repositories -->
+<!-- Top Repositories
 <h2 align="center">Top Repositories</h2>
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mujahid191&repo=your-repo-1" alt="Top Repo 1" align="center" /></a>
@@ -127,7 +127,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mujahid191&repo=your-repo-2" alt="Top Repo 2" align="center" /></a>
   <!-- Add more top repositories as needed -->
 </p>
-
+-->
 
 <!-- GitHub Gists -->
 <h2 align="center">GitHub Gists</h2>
