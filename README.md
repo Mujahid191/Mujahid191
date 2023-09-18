@@ -116,8 +116,7 @@
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mujahid191&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" align="center" />
-</div>
--->
+</div> -->
 
 <!-- Top Repositories
 <h2 align="center">Top Repositories</h2>
@@ -125,12 +124,10 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mujahid191&repo=your-repo-1" alt="Top Repo 1" align="center" /></a>
  <br/>  
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mujahid191&repo=your-repo-2" alt="Top Repo 2" align="center" /></a>
-  <!-- Add more top repositories as needed -->
-</p>
--->
+</p> -->
 
-<!-- GitHub Gists -->
+<!-- GitHub Gists
 <h2 align="center">GitHub Gists</h2>
 <p align="center">
   <script src="https://gist.github.com/Mujahid191/gist-id.js"></script>
-</p>
+</p> -->
