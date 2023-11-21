@@ -21,12 +21,15 @@
 <a href="#">
  <img src="https://img.shields.io/badge/MySQL-008000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin: 10px; font-size: 20px; font-weight: bold; border: 3px solid #008000; padding: 15px 20px; background-color: #008000; color: #fff; border-radius: 10px;">
 </a>
+ <a href="#">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" style="margin: 10px; font-size: 20px; font-weight: bold; border: 3px solid #FF2D20; padding: 15px 20px; background-color: #FF2D20; color: #fff; border-radius: 10px;">
+</a>
 </p>
 
 
 - 🚀 Full-stack developer, front-end & back-end web development.
 
-- 💼 Builds responsive web apps: HTML, CSS, Bootstrap, JavaScript, PHP, and MySQL.
+- 💼 Builds responsive web apps: HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, and MySQL.
 
 - ⚙️ Proficient in Git, VS Code, PhotoShop and Canva.
 
@@ -61,6 +64,7 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> -->  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="60" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="60" /></a>  
+<a href="https://laravel.com/"><img style="margin: 10px" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="35"></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -72,7 +76,7 @@
   <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a> -->  
 <a href="https://github.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="60" /></a>  
+<!-- <a href="https://wordpress.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="60" /></a> -->  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="60" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="60" /></a>  
 </div>
