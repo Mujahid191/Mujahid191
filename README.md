@@ -1,8 +1,8 @@
 <h1 align="center">Muhammad Mujahid</h1>
-<h3 align="center">Full-Stack Laravel & React Developer — SaaS, APIs & Compliance Systems</h3>
+<h3 align="center">Full-Stack Laravel & React DeveloperSaaS, APIs & Compliance Systems</h3>
 
 <p align="center">
-4+ years building production platforms — not tutorials. Backend to frontend, secure, documented, and built to scale.
+4+ years building production platformsnot tutorials. Backend to frontend, secure, documented, and built to scale.
 </p>
 
 <p align="center">
@@ -20,13 +20,13 @@
 
 ## What I Do
 
-I build full-stack web apps that solve real business problems — SaaS platforms, custom APIs, real-time dashboards, and compliance portals. I own backend and frontend both, so nothing falls through the cracks between two developers.
+I build full-stack web apps that solve real business problemsSaaS platforms, custom APIs, real-time dashboards, and compliance portals. I own backend and frontend both, so nothing falls through the cracks between two developers.
 
-- Full-featured SaaS platforms — role-based permissions, subscription billing
+- Full-featured SaaS platformsrole-based permissions, subscription billing
 - Secure, well-documented REST APIs (web, mobile, third-party)
-- Stripe & PayPal integration — recurring billing, automated invoicing
-- Real-time features — live notifications, chat, updates (Laravel Reverb, Echo, Pusher)
-- Pixel-perfect frontends — React.js, Inertia.js, Tailwind CSS, TypeScript
+- Stripe & PayPal integrationrecurring billing, automated invoicing
+- Real-time featureslive notifications, chat, updates (Laravel Reverb, Echo, Pusher)
+- Pixel-perfect frontendsReact.js, Inertia.js, Tailwind CSS, TypeScript
 - Custom admin panels & compliance portals with granular access control
 - Figma/PSD → responsive, accessible code
 
@@ -34,16 +34,16 @@ I build full-stack web apps that solve real business problems — SaaS platforms
 
 ## Featured Work
 
-*(Client projects — code is private under NDA. Described here as case studies.)*
+*(Client projectscode is private under NDA. Described here as case studies.)*
 
 | Project | What it does |
 |---|---|
-| **CMP System** | AI content automation platform — writes SEO articles and publishes across hundreds of WordPress sites in one click |
+| **CMP System** | AI content automation platformwrites SEO articles and publishes across hundreds of WordPress sites in one click |
 | **EF Portal** | Full audit lifecycle system with automated RCTI invoice generation + a Compliance API for external integrations |
-| **Power Portal** | All-in-one energy dashboard — rebate calculators, Power BI reports, audit management |
-| **Quote Manager** | Australian clean energy platform (EV chargers, BESS systems) — end-to-end installation management & rebate guidance |
+| **Power Portal** | All-in-one energy dashboardrebate calculators, Power BI reports, audit management |
+| **Quote Manager** | Australian clean energy platform (EV chargers, BESS systems)end-to-end installation management & rebate guidance |
 | **Backlink Marketplace** | Commission-based marketplace connecting SEO buyers and site owners with secure automated payments |
-| **Map Scan AI** | AI tool for electrical engineers — analyzes network maps and flags performance issues automatically |
+| **Map Scan AI** | AI tool for electrical engineersanalyzes network maps and flags performance issues automatically |
 | **API Gateway** | Middleware service converting raw Excel API responses into clean JSON for connected applications |
 
 ---
@@ -62,8 +62,8 @@ I build full-stack web apps that solve real business problems — SaaS platforms
 
 ## Why Work With Me
 
-- One developer, full stack — no need to coordinate two hires
+- One developer, full stackno need to coordinate two hires
 - Clean, documented code that's easy to maintain or hand off
 - Clear communication, regular updates
 - Performance and security are non-negotiable, not afterthoughts
-- Real-world, high-stakes systems shipped — not tutorial projects
+- Real-world, high-stakes systems shippednot tutorial projects
