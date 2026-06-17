@@ -1,125 +1,85 @@
 <h1 align="center">Muhammad Mujahid</h1>
+<h3 align="center">Full-Stack Laravel & React Developer — SaaS, APIs & Compliance Systems</h3>
+
 <p align="center">
- 🚀 Full-Stack Developer  |  🌐 Web Enthusiast  |  💻 Code Artisan
-</p>
-<p align="center">
-<a href="#">
- <img src="https://img.shields.io/badge/HTML-FFA500?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="margin: 10px; font-size: 20px; font-weight: bold; border: 3px solid #FFA500; padding: 15px 20px; background-color: #FFA500; color: #fff; border-radius: 10px;">
-</a>
-<a href="#">
- <img src="https://img.shields.io/badge/CSS-007BFF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="margin: 10px; font-size: 20px; font-weight: bold; border: 3px solid #007BFF; padding: 15px 20px; background-color: #007BFF; color: #fff; border-radius: 10px;">
-</a>
-<a href="#">
- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin: 10px; font-size: 20px; font-weight: bold; border: 3px solid #563D7C; padding: 15px 20px; background-color: #563D7C; color: #fff; border-radius: 10px;">
-</a>
-<a href="#">
- <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" style="margin: 10px; font-size: 20px; font-weight: bold; border: 3px solid #FFD700; padding: 15px 20px; background-color: #FFD700; color: #fff; border-radius: 10px;">
-</a>
-<a href="#">
- <img src="https://img.shields.io/badge/PHP-800080?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="margin: 10px; font-size: 20px; font-weight: bold; border: 3px solid #800080; padding: 15px 20px; background-color: #800080; color: #fff; border-radius: 10px;">
-</a>
-<a href="#">
- <img src="https://img.shields.io/badge/MySQL-008000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin: 10px; font-size: 20px; font-weight: bold; border: 3px solid #008000; padding: 15px 20px; background-color: #008000; color: #fff; border-radius: 10px;">
-</a>
- <a href="#">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" style="margin: 10px; font-size: 20px; font-weight: bold; border: 3px solid #FF2D20; padding: 15px 20px; background-color: #FF2D20; color: #fff; border-radius: 10px;">
-</a>
+4+ years building production platforms — not tutorials. Backend to frontend, secure, documented, and built to scale.
 </p>
 
-
-- 🚀 Full-stack developer, front-end & back-end web development.
-
-- 💼 Builds responsive web apps: HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, and MySQL.
-
-- ⚙️ Proficient in Git, VS Code, PhotoShop and Canva.
-
-- 💡 Solves problems, crafts efficient apps.
-
-- ⏱️ Meets project deadlines with quality results.
-
-- 🗄️ MySQL optimization for efficient data handling.
-
-
-
-<h2 align="center">My Skill Set</h2> 
-<table align="center" width="100%"><tr><td valign="top" width="33%">
-
-
-<h2 align="center">Front-end</h2>  
-<div align="center">   
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" /></a>  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" /></a>
-  <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="60" /></a>
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="60" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" /></a>
-</div>
-
-</td><td valign="top" width="33%">
-
-  <h2 align="center">Back-end</h2>  
-<div align="center">  
-<!-- <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> -->  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="60" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="60" /></a>  
-<a href="https://laravel.com/"><img style="margin: 10px" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="35"></a>
-</div>
-
-</td><td valign="top" width="33%">
-
-  
-<h2 align="center">DevOps</h2>
-<div align="center">  
-  <!-- <a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /></a>  
-  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a> -->  
-<a href="https://github.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" /></a>  
-<!-- <a href="https://wordpress.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="60" /></a> -->  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="60" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="60" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-</div>  
-
-
-<br/>  
-
-
-<!-- ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=alishaamin&&style=flat-square" align="center" /> -->
-
-
-<!-- GitHub Stats 
-<h2 align="center">GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mujahid191&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" align="center" />
-</div> -->
-
-<!-- Top Repositories
-<h2 align="center">Top Repositories</h2>
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mujahid191&repo=your-repo-1" alt="Top Repo 1" align="center" /></a>
- <br/>  
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mujahid191&repo=your-repo-2" alt="Top Repo 2" align="center" /></a>
-</p> -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
 
-<!-- GitHub Gists
-<h2 align="center">GitHub Gists</h2>
+---
+
+### 🇦🇺 Niche: Australian energy compliance & rebate systems (RCTI, audit, regulatory portals) + SaaS / AI tooling
+
+---
+
+## What I Do
+
+I build full-stack web apps that solve real business problems — SaaS platforms, custom APIs, real-time dashboards, and compliance portals. I own backend and frontend both, so nothing falls through the cracks between two developers.
+
+- Full-featured SaaS platforms — role-based permissions, subscription billing
+- Secure, well-documented REST APIs (web, mobile, third-party)
+- Stripe & PayPal integration — recurring billing, automated invoicing
+- Real-time features — live notifications, chat, updates (Laravel Reverb, Echo, Pusher)
+- Pixel-perfect frontends — React.js, Inertia.js, Tailwind CSS, TypeScript
+- Custom admin panels & compliance portals with granular access control
+- Figma/PSD → responsive, accessible code
+
+---
+
+## Featured Work
+
+*(Client projects — code is private under NDA. Described here as case studies.)*
+
+| Project | What it does |
+|---|---|
+| **CMP System** | AI content automation platform — writes SEO articles and publishes across hundreds of WordPress sites in one click |
+| **EF Portal** | Full audit lifecycle system with automated RCTI invoice generation + a Compliance API for external integrations |
+| **Power Portal** | All-in-one energy dashboard — rebate calculators, Power BI reports, audit management |
+| **Quote Manager** | Australian clean energy platform (EV chargers, BESS systems) — end-to-end installation management & rebate guidance |
+| **Backlink Marketplace** | Commission-based marketplace connecting SEO buyers and site owners with secure automated payments |
+| **Map Scan AI** | AI tool for electrical engineers — analyzes network maps and flags performance issues automatically |
+| **API Gateway** | Middleware service converting raw Excel API responses into clean JSON for connected applications |
+
+---
+
+## Skills & Tools
+
+**Backend:** Laravel (v9+) · PHP 8+ · RESTful APIs · Spatie Permissions · Laravel Sanctum · OAuth 2.0 · Laravel Cashier
+
+**Frontend:** Next.js · React.js · Inertia.js · TypeScript · Tailwind CSS · Bootstrap · JavaScript (ES6+) · jQuery · AJAX
+
+**Database & DevOps:** MySQL · PostgreSQL · Docker · Git/GitHub · Postman · Vite · Laravel Mix
+
+**Integrations:** Stripe · PayPal · Facebook · Instagram · LinkedIn · TikTok · YouTube · WordPress · Pusher · BlueSky · Mastodon
+
+---
+
+## Why Work With Me
+
+- One developer, full stack — no need to coordinate two hires
+- Clean, documented code that's easy to maintain or hand off
+- Clear communication, regular updates
+- Performance and security are non-negotiable, not afterthoughts
+- Real-world, high-stakes systems shipped — not tutorial projects
+
+---
+
+## Let's Talk
+
+Looking for a developer who takes ownership of the work, not just the task? Send a brief description of your project.
+
 <p align="center">
-  <script src="https://gist.github.com/Mujahid191/gist-id.js"></script>
-</p> -->
+  <a href="#"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
