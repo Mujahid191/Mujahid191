@@ -18,10 +18,6 @@
 
 ---
 
-### 🇦🇺 Niche: Australian energy compliance & rebate systems (RCTI, audit, regulatory portals) + SaaS / AI tooling
-
----
-
 ## What I Do
 
 I build full-stack web apps that solve real business problems — SaaS platforms, custom APIs, real-time dashboards, and compliance portals. I own backend and frontend both, so nothing falls through the cracks between two developers.
@@ -71,15 +67,3 @@ I build full-stack web apps that solve real business problems — SaaS platforms
 - Clear communication, regular updates
 - Performance and security are non-negotiable, not afterthoughts
 - Real-world, high-stakes systems shipped — not tutorial projects
-
----
-
-## Let's Talk
-
-Looking for a developer who takes ownership of the work, not just the task? Send a brief description of your project.
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
